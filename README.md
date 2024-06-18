@@ -4,7 +4,7 @@
 
 to remove previous commits, the following commands were used:
 
-```
+```bash
 git checkout --orphan latest_branch
 git add -A
 git commit -am "initial commit"
@@ -15,7 +15,7 @@ git push -f origin master
 
 ## generating ssh key
 
-```
+```bash
 #!bin/bash
 
 openssl req \
