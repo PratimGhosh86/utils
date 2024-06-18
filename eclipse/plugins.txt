@@ -1,0 +1,11 @@
+asciidoctor
+bash editor
+batch editor
+cucumber
+devstyle
+easyshell
+extra syntax
+java decompiler
+jenkins editor
+sonarlint
+sql editor
