@@ -1,0 +1,37 @@
+devstyle
+
+https://download.eclipse.org/tm4e/releases/latest/ --> TextMate Language Pack
+
+https://raw.githubusercontent.com/sebthom/extra-syntax-highlighting-eclipse-plugin/updatesite --> extra syntax highlighting
+
+https://www.certiv.net/updates --> indent guide
+
+
+autodetect encoding
+easy shell
+eclipse runner
+decompiler
+import jar as project
+
+eclemma
+sonarlint
+
+
+https://github.com/google/google-java-format
+
+
+
+
+older::
+
+asciidoc editor
+bash editor
+batch editor
+cucumber
+devstyle
+easyshell
+extra syntax
+java decompiler
+jenkins editor
+sonarlint
+sql editor
